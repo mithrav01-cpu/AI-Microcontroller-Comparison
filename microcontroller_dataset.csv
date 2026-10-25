@@ -1,0 +1,4 @@
+Platform,RAM_KB,Flash_KB,Cost_INR
+Arduino Uno,2,32,500
+ESP32,520,4096,400
+Raspberry Pi Pico,264,2048,400
